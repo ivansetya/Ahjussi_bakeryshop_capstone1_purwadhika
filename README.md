@@ -8,6 +8,8 @@ Capstone project for module 1 Purwadika DTIDS. Case of the system is to create b
 3. Install the required dependencies by running `pip install -r requirements.txt`
 4. Run the `main.py` file using python
 
+## Presentation
+https://www.canva.com/design/DAGDKB9-2Yk/XDwm1agX3gIX27_Hj-6qIw/edit?utm_content=DAGDKB9-2Yk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Setup environment
 ```
