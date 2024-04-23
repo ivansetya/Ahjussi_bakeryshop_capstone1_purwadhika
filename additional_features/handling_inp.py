@@ -8,7 +8,7 @@ def user_inp_opt(prompt, options):
 def user_inp_data(prompt, datatype):
     while True:
         try:
-            user_input = datatype(input(prompt))
+            user_input = datatype(input(prompt).isdigit())
             break
         except ValueError:
             print("Invalid input! Please enter a valid integer.")
