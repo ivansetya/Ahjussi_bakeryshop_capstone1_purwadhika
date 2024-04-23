@@ -4,10 +4,10 @@ Capstone project for module 1 Purwadika DTIDS. Case of the system is to create b
 
 ## Usage
 1. Clone repository to your local machine https://github.com/ivansetya/Ahjussi_bakeryshop_capstone1_purwadhika.git
-2. ENsure you have python installed
+2. Ensure you have python installed
 3. Install the required dependencies by running `pip install -r requirements.txt`
 4. Run the `main.py` file using python
-5. Follow on the on-screen instruction to navigate through the application and manage your journal entries
+
 
 ## Setup environment
 ```
