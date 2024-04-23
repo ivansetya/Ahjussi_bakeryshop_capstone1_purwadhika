@@ -12,6 +12,6 @@ Capstone project for module 1 Purwadika DTIDS. Case of the system is to create b
 ## Setup environment
 ```
 pip install tabulate
-pip install sys
+
 ```
 
